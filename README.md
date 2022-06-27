@@ -17,6 +17,8 @@ Python 3.9.12
 
 [os](https://docs.python.org/3/library/os.html)
 
+[datetime](https://docs.python.org/3/library/datetime.html)
+
 [requests](https://pypi.org/project/requests/)
 
 [News API](https://newsapi.org/)
